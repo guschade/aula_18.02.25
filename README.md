@@ -1,6 +1,6 @@
 # Exercícios de Cálculo Numérico Computacional
 
-Este repositório contém os exercícios realizados na aula de Cálculo Numérico Computacional.
+Este repositório contém os exercícios realizados na aula de Cálculo Numérico Computacional do dia 18/02/2025.
 
 ## Informações da Aula
 
